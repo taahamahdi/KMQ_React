@@ -14,7 +14,7 @@ const App = () => {
                 setCoverVisiblity(false);
                 setMuted(false);
                 setRound(roundNumber + 1);
-            }, 5500);
+            }, 6000);
         }
     });
     return (

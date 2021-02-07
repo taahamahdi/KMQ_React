@@ -16,7 +16,7 @@ const PlayerCover = (props: PlayerCoverProps) => {
     return (props.visible ?
             <View style={styles.rectangle}>
                 <Text style={styles.roundText}>
-                    Round {props.roundNumber}
+                    Round {props.roundNumber + 1}
                 </Text>
             </View>
                 : null);
@@ -31,6 +31,8 @@ const styles = StyleSheet.create({
         position: "absolute",
     },
     roundText: {
+        width: "100%",
+        height: "100%",
         textAlign: "center",
         textAlignVertical: "center",
         color: "white",
