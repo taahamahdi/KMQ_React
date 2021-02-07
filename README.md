@@ -2,8 +2,11 @@
 A React Native implementation of [KMQ_Discord](https://github.com/Brainicism/KMQ_Discord) for Android/iOS.
 
 How to run:
+
 `npm install`
+
 `npx react-native start`
+
 `npx react-native run-android`
 
 ## TODO:

@@ -1,3 +1,6 @@
 [submodule "KMQ_Discord"]
 	path = src/KMQ_Discord
 	url = https://github.com/Brainicism/KMQ_Discord
+[submodule "src/KMQ_Discord"]
+	path = src/KMQ_Discord
+	url = https://github.com/Brainicism/KMQ_Discord
