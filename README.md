@@ -12,8 +12,6 @@ How to run:
 ## TODO:
 * ~~Hide the player for 3 secs, cover it, mute it~~
 * Write script to convert Aoimirai db from mysql to sqlite using mysqldump
-    * In app, download the sqlite db and import using Expo
-    * Install and setup https://github.com/expo/expo
 * Handle simple game logic (starting next round with a different song, reset)
 * Add ability for user to guess the song
     * Duolingo-style, show words as their own buttons, user presses them in the right order to generate song title
